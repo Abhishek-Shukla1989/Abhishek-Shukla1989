@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, I'm Abhishek!
+I'm a tech lead and backend engineer with a passion for building scalable applications using JavaScript, Golang, and cloud technologies.
+
+ 🔭 I’m currently working on Golang Web Development using GO-Gin and GORM
+- 🌱 I’m currently learning Golang Network protocol development
+- 💬 Ask me about ... Go Language, React.js , Node.js
+- 📫 How to reach me: Contact me on abhi2012mmmec@gmail.com
+- 
+### 🎉 Fun Fact
+- I love solving complex problems and optimizing code for performance.
+- When I'm not coding, you'll find me hiking or exploring new tech gadgets.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Shukla1989&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Shukla1989&layout=compact&theme=radical)
