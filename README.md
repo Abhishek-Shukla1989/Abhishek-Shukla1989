@@ -67,5 +67,6 @@ I'm a tech lead and backend engineer with a passion for building scalable applic
 ![AWS ECS](https://img.shields.io/badge/AWS-ECS-orange?logo=amazon-ecs&logoColor=white)
 ![AWS EKS](https://img.shields.io/badge/AWS-EKS-blue?logo=amazon-eks&logoColor=white)
 
+⚡️ "Let's build something amazing together!"
 
 
